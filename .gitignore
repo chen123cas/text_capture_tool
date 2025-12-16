@@ -1,0 +1,262 @@
+# 忽略Python编译文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 忽略虚拟环境
+venv/
+env/
+.env/
+
+# 忽略日志文件
+*.log
+logs/
+
+# 忽略配置文件
+config.json
+*.ini
+*.cfg
+
+# 忽略Word文档
+*.docx
+*.doc
+
+# 忽略临时文件
+*.tmp
+*.temp
+~$*
+
+# 忽略操作系统文件
+.DS_Store
+Thumbs.db
+
+# 忽略IDE文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 忽略打包文件
+build/
+dist/
+*.egg-info/
+
+# 忽略测试文件
+pytest_cache/
+.testmondata
+
+# 忽略环境变量文件
+.env
+.env.local
+.env.*.local
+
+# 忽略其他临时文件
+*.bak
+*.backup
+*.old
+
+# 忽略Tesseract-OCR文件
+C:\Program Files\Tesseract-OCR\
+
+# 忽略用户文档目录
+C:\Users\*\Documents\
+
+# 忽略应用程序数据目录
+C:\Users\*\AppData\
+
+# 忽略Windows系统目录
+C:\Windows\
+C:\System32\
+C:\SysWOW64\
+
+# 忽略Mac系统目录
+/Applications/
+/Library/
+/System/
+/Users/
+
+# 忽略Linux系统目录
+/bin/
+/boot/
+/dev/
+/etc/
+/home/
+/lib/
+/lib64/
+/media/
+/mnt/
+/opt/
+/proc/
+/root/
+/run/
+/sbin/
+/srv/
+/sys/
+/tmp/
+/usr/
+/var/
+
+# 忽略其他不需要提交的文件
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.o
+
+# 忽略数据文件
+*.csv
+*.xlsx
+*.xls
+*.json
+*.xml
+*.yaml
+*.yml
+*.sql
+*.db
+*.sqlite
+*.sqlite3
+
+# 忽略媒体文件
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.ico
+*.svg
+
+*.mp3
+*.wav
+*.ogg
+*.flac
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.wmv
+
+# 忽略压缩文件
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+*.tar.bz2
+*.gz
+*.bz2
+
+# 忽略其他文件
+*.pdf
+*.epub
+*.mobi
+*.chm
+*.rtf
+*.txt
+*.md
+*.rst
+*.tex
+*.latex
+
+# 忽略开发工具文件
+*.tool
+*.project
+*.settings
+*.metadata
+
+# 忽略其他临时文件
+*.tmp
+*.temp
+*.cache
+*.swp
+*.swo
+*~
+
+# 忽略日志文件
+*.log
+logs/
+
+# 忽略构建文件
+build/
+dist/
+*.egg-info/
+
+# 忽略测试文件
+pytest_cache/
+.testmondata
+
+# 忽略环境变量文件
+.env
+.env.local
+.env.*.local
+
+# 忽略其他不需要提交的文件
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.o
+
+# 忽略数据文件
+*.csv
+*.xlsx
+*.xls
+*.json
+*.xml
+*.yaml
+*.yml
+*.sql
+*.db
+*.sqlite
+*.sqlite3
+
+# 忽略媒体文件
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.ico
+*.svg
+
+*.mp3
+*.wav
+*.ogg
+*.flac
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.wmv
+
+# 忽略压缩文件
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+*.tar.bz2
+*.gz
+*.bz2
+
+# 忽略其他文件
+*.pdf
+*.epub
+*.mobi
+*.chm
+*.rtf
+*.txt
+*.md
+*.rst
+*.tex
+*.latex
+
+# 忽略开发工具文件
+*.tool
+*.project
+*.settings
+*.metadata
